@@ -7,7 +7,7 @@
 ## 👨‍💻 Skills
 <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=OpenJdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 
@@ -23,14 +23,14 @@
 
     -   Python, FastAPI, MongoDB, Pytorch, OpenVINO, faiss
     -   팀장, 감정분석모델 학습, 노래 데이터 크롤링, 모델 서빙 API
-    -   팀 프로젝트(6인)
+    -   팀 프로젝트(6인), [시연 영상](https://youtu.be/9I6P4Y9IzG4)
 
 -   `'24.01.08 ~ '24.02.16` **KOFOOS - Korean Food Scanner**
 
     -   Java, Spring Boot, Spring Data Jpa, Junit5, MySQL, Pytorch, TFLite, Flutter
     -   YOLO 모델 학습, tflite 변환, 추천 API 
-    -   팀 프로젝트(5인), 우수상(3등) 수상
-
+    -   팀 프로젝트(5인), 우수상(3등) 수상, [시연 영상](https://youtu.be/fsbzTRI7B7M)
+      
 -   `'22.09.31 ~ '22.12.09` **너와 내 옷 사이 - 중고 옷 거래 플랫폼**
 
     -   Java, Spring, Spring Data JPA, Spring Security, Redis, MySQL, Python, Flask, SQLAlchemy, faiss

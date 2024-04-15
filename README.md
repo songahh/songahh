@@ -45,8 +45,5 @@
 
 ---
 
-<div align="center">
-    <a href="https://solved.ac/gunsong2">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gunsong2">
-    </a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songahh&layout=compact&theme=tokyonight)](https://github.com/gunsong2)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunsong2)](https://solved.ac/gunsong2/)

@@ -23,10 +23,10 @@
     -   AWS Lambda, AWS API Gateway, AWS ECR, AWS Cognito, AWS Aurora, AWS Bedrock, AWS Comprehend, AWS SQS, AWS CloudFront, AWS Certificate Manager, AWS ElasticCache
     -   Motion 부여, 스탯
     -   팀 프로젝트(5인), [시연 영상](https://youtu.be/blpVqoL0zRo)
-      <img src="https://github.com/songahh/songahh/assets/77879519/40acf48b-4eeb-4340-a69d-038c7c04936b"  width="200" height="200"/>
-      <img src="https://github.com/songahh/songahh/assets/77879519/7abe6d94-1a3d-4687-95ac-31a204982ba7"  width="200" height="200"/>
-      <img src="https://github.com/songahh/songahh/assets/77879519/05c75ea4-5ecf-4f4e-83eb-e32b9ec598d8"  width="200" height="200"/>
-      <img src="https://github.com/songahh/songahh/assets/77879519/bd0f3abe-7c29-4bc8-9281-a878fdc7426b)"  width="200" height="200"/>
+      <img src="https://github.com/songahh/songahh/assets/77879519/40acf48b-4eeb-4340-a69d-038c7c04936b"  width="100" height="100"/>
+      <img src="https://github.com/songahh/songahh/assets/77879519/7abe6d94-1a3d-4687-95ac-31a204982ba7"  width="100" height="100"/>
+      <img src="https://github.com/songahh/songahh/assets/77879519/05c75ea4-5ecf-4f4e-83eb-e32b9ec598d8"  width="100" height="100"/>
+      <img src="https://github.com/songahh/songahh/assets/77879519/bd0f3abe-7c29-4bc8-9281-a878fdc7426b)"  width="100" height="100"/>
 
   
 -   `'24.02.19 ~ '24.04.03` **OUI - 너와 나의 공유일기**
